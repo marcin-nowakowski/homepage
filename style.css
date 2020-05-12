@@ -34,6 +34,18 @@ a {
     background: #BFD7EA;
 }
 p {
-    color: #66101F;
+    color: black;
+    min-height: 80px;
+    width: 600px;
+    overflow:auto;
+    background: #DCEDFF;
+
+}
+.long-text{
+    color: black;
+    max-height: 200px;
+    width: 600px;
+    overflow:auto;
+    background: #DCEDFF;
 }
 
