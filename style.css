@@ -20,6 +20,9 @@ footer{
 nav a{
     color: black;
     background-color: #BFD7EA;
+    display: inline-block;
+    height: 50px;
+    width: 70px;
 }
 a {
     color: red;
