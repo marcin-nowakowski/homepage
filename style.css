@@ -1,9 +1,12 @@
 body {
 background: #84D2F6;
+
 }
 h1{
     color: #0F314A;
     background-color: #59A5D8;
+    
+
 }
 h2{
     color: #0F314A;
@@ -33,6 +36,13 @@ nav a{
     display: inline-block;
     height: 50px;
     width: 70px;
+    
+   
+}
+
+nav{
+    position:fixed;
+    display: inline-block;
 }
 .list-1{
     
@@ -71,8 +81,11 @@ p {
     overflow:auto;
     background: #DCEDFF;
 }
-.image {
- 
-    
+
+.image-2{
+    float: left;
 }
+   
+    
+
 
