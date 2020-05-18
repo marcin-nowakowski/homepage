@@ -2,18 +2,18 @@ body {
 background: #84D2F6;
 
 }
-h1{
+.header__main--title{
     color: #0F314A;
     background-color: #59A5D8;
     
 
 }
-h2{
+.firstSection__header {
     color: #0F314A;
     background-color: #59A5D8; 
 }
     
-h3 {
+.firstSection__article--header {
     color: #0F314A;
     background-color: #59A5D8;
     max-width: 300px;
@@ -30,7 +30,7 @@ footer{
     color: #0F314A;
     background-color: #59A5D8;
 }
-nav a{
+.navigation__link{
     color: black;
     background-color: #BFD7EA;
     display: inline-block;
@@ -40,8 +40,8 @@ nav a{
    
 }
 
-nav{
-    position:fixed;
+.navigation{
+    
     display: inline-block;
 }
 .list-1{
