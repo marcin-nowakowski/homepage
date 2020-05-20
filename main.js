@@ -16,5 +16,5 @@ const heading = document.querySelector('.header__main--js');
 
 console.log(heading);
 
-heading.innerHTML = 'blabla'
+
 

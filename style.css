@@ -5,12 +5,15 @@ background: #84D2F6;
 .header__main--title{
     color: #0F314A;
     background-color: #59A5D8;
+    border-radius: 15px;
     
 
 }
 .firstSection__header {
     color: #0F314A;
     background-color: #59A5D8; 
+    border-radius: 15px;
+  
 }
     
 .firstSection__article--header {
@@ -21,6 +24,7 @@ background: #84D2F6;
     padding: 5px;
     border: 5px solid teal ;
     box-sizing: border-box;
+    border-radius: 15px;
     
 
 }
@@ -29,6 +33,7 @@ background: #84D2F6;
 footer{
     color: #0F314A;
     background-color: #59A5D8;
+    border-radius: 15px;
 }
 .navigation__link{
     color: black;
@@ -36,6 +41,7 @@ footer{
     display: inline-block;
     height: 50px;
     width: 70px;
+    border-radius: 15px;
     
    
 }
@@ -84,6 +90,10 @@ p {
 
 .image-2{
     float: left;
+}
+.main{
+    max-width: 1000px;
+    margin: 0 auto;
 }
    
     
